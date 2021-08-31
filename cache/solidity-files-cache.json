@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/menda0/Projects/eth/first-contract/contracts/Counter.sol": {
+      "lastModificationDate": 1630384641991,
+      "contentHash": "abbd535ac90d52abbd4eb1da762e2232",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.17"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    }
+  }
+}
